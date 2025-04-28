@@ -27,7 +27,7 @@ const About: React.FC = () => {
               My Story
             </h3>
             <p className="text-gray-600 dark:text-gray-300 mb-4 leading-relaxed">
-            I'm a young frontend developer passionate about building modern, user-friendly websites.
+            I'm a young, self-taught full-stack developer passionate about building modern, user-friendly websites that actually convert.
               
             I specialize in HTML, CSS, JS, TypeScript, React.js, Node.js, SQL, Tailwind to create fast, responsive, and clean-looking sites that help people stand out online. Whether it’s for your personal brand, business, or portfolio — I’ll make sure your site feels professional and looks amazing on any device.
 
