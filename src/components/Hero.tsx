@@ -21,7 +21,7 @@ const Hero: React.FC = () => {
         <div className="order-2 md:order-1 animate-fadeIn">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-800 dark:text-white leading-tight">
             Hi, I'm <span className="text-navy-600 dark:text-navy-300">Hrachya</span>,<br />
-            Front-End Developer
+            Full-stack Developer
           </h1>
           <p className="mt-4 text-xl text-gray-600 dark:text-gray-300 leading-relaxed">
             I build beautiful, responsive, and user-friendly web applications that solve real-world problems.
