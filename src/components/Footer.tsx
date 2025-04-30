@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <div className="mb-8 md:mb-0">
             <h3 className="text-2xl font-bold text-navy-600 dark:text-white mb-2"></h3>
             <p className="text-gray-600 dark:text-gray-300 max-w-sm">
-              Front-End Developer with a passion for creating beautiful and functional web applications. Let's connect and build something amazing together!
+              Full-Stack Developer with a passion for creating beautiful and functional web applications. Let's connect and build something amazing together!
             </p>
           </div>
           
