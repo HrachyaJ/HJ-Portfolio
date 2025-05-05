@@ -13,8 +13,8 @@ export const projects: Project[] = [
     id: 1,
     title: "NextBuy E-commerce",
     description: "A modern e-commerce website built with Next.js, featuring a user-friendly interface, product listings, and a secure checkout process.",
-    image: "/Next-buy.png",
-    technologies: ["React", "Tailwind", "JavaScript"],
+    image: "public/Next-buy.png",
+    technologies: ["React.js", "TailwindCSS", "JavaScript"],
     githubUrl: "https://github.com/HrachyaJ/react-app",
     demoUrl: "https://react-app-delta-blue.vercel.app/"
   },
@@ -22,7 +22,7 @@ export const projects: Project[] = [
     id: 2,
     title: "CodeWise Solutions",
     description: " A professional website for a software development company, showcasing services, portfolio, and client testimonials, designed to attract potential clients.",
-    image: "/Code-wise.png",
+    image: "public/Code-wise.png",
     technologies: ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
     githubUrl: "https://github.com/HrachyaJ/mywebsites-ai/blob/main/codewise.html",
     demoUrl: "https://hrachyaj.github.io/mywebsites-ai/codewise.html"
@@ -31,7 +31,7 @@ export const projects: Project[] = [
     id: 3,
     title: "Commercity E-commerce",
     description: " A modern e-commerce website designed to provide a seamless shopping experience, featuring product listings, user authentication, and a responsive layout.",
-    image: "/Commercity.png",
+    image: "public/Commercity.png",
     technologies: ["HTML5", "CSS", "JavaScript", "Bootstrap"],
     githubUrl: "https://github.com/HrachyaJ/mywebsites-ai/blob/main/commercity.html",
     demoUrl: "https://hrachyaj.github.io/mywebsites-ai/commercity.html"
@@ -40,7 +40,7 @@ export const projects: Project[] = [
     id: 4,
     title: "Jewelry Gems Store",
     description: "A visually stunning jewelry store website designed to showcase products, provide detailed descriptions, and facilitate easy navigation for potential customers.",
-    image: "/Jewelry-gems.png",
+    image: "public/Jewelry-gems.png",
     technologies: ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
     githubUrl: "https://github.com/HrachyaJ/mywebsites-ai/blob/main/jewelry-gems.html",
     demoUrl: "https://hrachyaj.github.io/mywebsites-ai/jewelry-gems.html"
@@ -49,7 +49,7 @@ export const projects: Project[] = [
     id: 5,
     title: "Prandella Restaurant",
     description: "A functional restaurant website showcasing menu items, reservation options, and a vibrant design to attract food enthusiasts.",
-    image: "/Prandella.png",
+    image: "public/Prandella.png",
     technologies: ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
     githubUrl: "https://github.com/HrachyaJ/mywebsites-ai/blob/main/restaurant-website.html",
     demoUrl: "https://hrachyaj.github.io/mywebsites-ai/restaurant-website.html"
@@ -58,9 +58,36 @@ export const projects: Project[] = [
     id: 6,
     title: "FightFit Gym",
     description: "A bold and dynamic fitness website built for gyms and personal trainers, designed to showcase services, client testimonials, and a call-to-action for memberships.",
-    image: "/Fight-fit.png",
+    image: "public/Fight-fit.png",
     technologies: ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
     githubUrl: "https://github.com/HrachyaJ/mywebsites-ai/blob/main/fightfit.html",
     demoUrl: "https://hrachyaj.github.io/mywebsites-ai/fightfit.html"
+  },
+  {
+    id: 4,
+    title: "Web Development Agency Website",
+    description: "A professional website for a web development agency, showcasing services, portfolio, and client testimonials, designed to attract potential clients.",
+    image: "public/wip-solutions.png",
+    technologies: ["Next.js", "TailwindCSS", "TypeScript"],
+    githubUrl: "https://github.com/HrachyaJ/agency-website",
+    demoUrl: "https://wip-solutions.netlify.app/"
+  },
+  {
+    id: 5,
+    title: "Amazon Clone",
+    description: "A clone of the popular e-commerce platform Amazon, featuring product listings, a shopping cart functionality, and ability to place an order and track it.",
+    image: "public/amazon.png",
+    technologies: ["HTML5", "CSS3", "JavaScript"],
+    githubUrl: "https://github.com/HrachyaJ/amazon",
+    demoUrl: "https://amazon-hj.netlify.app"
+  },
+  {
+    id: 6,
+    title: "Pixel Grid - Collaborative Drawing App",
+    description: "A fun and interactive pixel grid application where users can collaboratively draw and create pixel art in real-time.",
+    image: "public/pixel-grid.png",
+    technologies: ["Node.js", "Express", "HTML5", "CSS3"],
+    githubUrl: "https://github.com/HrachyaJ/pixel-grid",
+    demoUrl: "https://pixel-grid.onrender.com/"
   }
 ];
